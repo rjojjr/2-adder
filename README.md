@@ -1,6 +1,6 @@
 # 2-Adder README
 
-2-Adder is a python exercise for brand new python
+2-Adder is a python exercise for brand-new python
 developers who have no code experience. The project is meant to be completed in
 4 steps/iterations in the order defined in the 
 section below.
@@ -28,3 +28,10 @@ You must have python 3 installed on your machine
 I recommend that you use this project
 with the IDEA Intellij IDE with the python plugin
 installed.
+
+## Completing The Exercise
+
+This exercise is intended to teach you
+the most basic aspects of a simple command line
+application and how to learn new coding methods
+on your own.
