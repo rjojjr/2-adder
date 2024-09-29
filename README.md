@@ -18,3 +18,13 @@ application that does 4 things:
 Each of the four features should be implemented 
 one at a time in the order that they exist
 in the list above.
+
+### Requirements
+
+You must have python 3 installed on your machine
+
+#### Recommended IDE
+
+I recommend that you use this project
+with the IDEA Intellij IDE with the python plugin
+installed.
